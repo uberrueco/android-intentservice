@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intent Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="info">This activity launches an intent-service. Once the intent-service finishes, it informs this activity through a message-handler.</string>
+    <string name="button_click">Execute Intent Service</string>
+
+</resources>
